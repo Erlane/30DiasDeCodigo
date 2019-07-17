@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+
+}
+
+.title {
+	font-size: 3rem;
+	display: flex;
+	justify-content: center;
+	color: red;
+	font-family: 'Bahianita', cursive;
+}
+
+.sub-title {
+	font-size: 2rem;
+	color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+
+}
+
+.form {
+	color: #FFFFFF;
+}
+
+.finish {
+    font-size: 1rem;
+    border-radius: 35px;
+    padding: 10px 20px;
+}
