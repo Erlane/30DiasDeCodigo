@@ -1,0 +1,28 @@
+.image {
+	width: 25vw;
+	height: 43vh;
+
+}
+
+main {
+	display: flex;
+}
+
+.perfil {
+    display: flex;
+    width: 40rem;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.editar {
+	
+}
+
+button {
+    width: 12vw;
+	height: 7vh;
+    margin-left: 65px;
+	background-color: #5882FA;
+}

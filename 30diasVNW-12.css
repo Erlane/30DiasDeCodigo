@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	background-image: url("http://meioambiente.culturamix.com/blog/wp-content/gallery/misterios-do-fundo-do-mar-fotos-5/Mist%C3%A9rios-do-Fundo-do-Mar-Fotos-13.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 100vh;
+}
+
+.container {
+    height: 57vh;
+ 	width: 64vw;
+    position: absolute;
+    border: 2px solid;
+    left: 330px;
+    bottom: 170px;
+ 	border-color: #6E6E6E;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.container-image {
+	height: 21vh;
+    width: 15vw;
+    border-radius: 50%;
+
+}
+
+label {
+	height: 8vh;
+	color: #FFFFFF;
+	font-size: 2rem;
+}
+
+button {
+	background-color: red;
+	font-size: 1rem;
+    padding: 10px 10px;	
+}

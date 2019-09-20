@@ -1,0 +1,58 @@
+body {
+	background-color: tomato;
+}
+
+section {
+	height: 45vh;
+}
+
+h1 {
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.time {
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Lobster', cursive;
+}
+
+.pro-time {
+	display: flex;
+	justify-content: center;
+	justify-content: space-evenly;
+    height: 3vw;
+}
+button {
+	border-radius: 20px;
+    width: 3vw;
+    height: 6vh;
+}
+
+.tempo {
+	display: flex;
+	justify-content: center;
+	
+}
+.circulo {
+	 width: 30vw;
+     height: 50vh;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: tomato;
+     border: 3px solid black;
+     flex-direction: column;
+}
+
+h3 {
+	font-size: 3rem;
+	display: flex;
+	justify-content: center;
+
+}

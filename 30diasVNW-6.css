@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: blue;
+	display: flex;
+	justify-content: center;
+}
+
+.title {
+	height: 7vh;
+	font-size: 3rem;
+	font-family: 'Bonbon', cursive;
+	font-family: 'Butterfly Kids', cursive;
+	font-family: 'Dancing Script', cursive;
+}
+
+.image {
+	width: 7%;
+	height: 0%;
+}
+
+main {
+    width: 100%;
+    height: 9rem;
+	display: flex;
+    justify-content: center;
+}
+
+.image-1 {
+	width: 35%;
+	object-fit: cover;
+}
+
+.box-day {
+	width: 90%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.day {
+	width: 15%;
+    height: 6vh;
+    text-align: end;
+}
+
+.semana {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+h2 {
+	color: grey;
+	font-size: 2rem;
+	text-align: center;
+	font-family: 'Butterfly Kids', cursive;
+	font-family: 'Dancing Script', cursive;
+}

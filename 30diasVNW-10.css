@@ -1,0 +1,171 @@
+body {
+	background-color: purple;
+}
+
+.header {
+	width: 13vw;
+    height: 27vh;
+    left: 165px;
+    top: 140px;
+    position: absolute;
+	background-color: #848484;
+    border: 2px solid black;
+    border-radius: 100% 100% 0% 00% / 60% 60%;
+    z-index: -1;
+
+}
+
+.years {
+	width: 3vw;
+    height: 5vh;
+    left: 195px;
+    top: 189px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F7BE81;
+    z-index: 1;
+}
+
+.years-1 {
+	width: 3vw;
+    height: 5vh;
+    left: 232px;
+    top: 189px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F7BE81;
+    z-index: 1;
+
+}
+
+.iris {
+	width: 1vw; 
+    height: 1.5vh; 
+    left: 242px;
+    top: 200px;
+    position: absolute;
+    background: black;
+    z-index: 1;
+ 
+}
+
+.iris-1 {
+	width: 1vw; 
+    height: 1.5vh; 
+    left: 205px;
+    top: 200px;
+    position: absolute;
+    background: black;
+    z-index: 1;
+}
+
+.oculos {
+	width: 11vw;
+    height: 5vh;
+    left: 174px;
+    top: 189px;
+    position: absolute;
+    border-radius: 38%;
+    background: black;
+    
+
+}
+
+.oculos-1 {
+	width: 12vw;
+    height: 6vh;
+    left: 168px;
+    top: 183px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 38%;
+    border: 2px solid black;
+    background: #FFFFFF;
+    z-index: -1;
+}
+
+.mouth {
+	width: 9vw;
+    height: 5vh;
+    left: 185px;
+    top: 275px;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 25%;
+    background: black;
+}
+.dentes {
+    width: 9vw;
+    height: 5vh;
+    left: 187px;
+    top: 277px;
+    position: absolute;
+}
+
+tr {
+    background-color: #FFFFFF;
+}
+
+.charuto {
+    width: 5vw; 
+    height: 1vh; 
+    left: 248px;
+    top: 289px;
+    position: absolute;
+    border: 2px solid #555;
+    background: #8A4B08;
+    transform: rotate(-10deg);
+}
+
+.maço {
+    width: 1vw; 
+    height: 1.5vh; 
+    left: 303px;
+    top: 281px;
+    position: absolute;
+    border: 2px solid #555;
+    border-radius: 50%;
+    background: red;
+
+}
+
+.antena {
+    width: 2vw;
+    height: 3vh;
+    left: 217px;
+    top: 127px;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #848484;
+}
+
+.antena-1 {
+    width: 0;
+    height: 0;
+    left: 224px;
+    top: 77px;
+    position: absolute;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 50px solid #848484;
+}
+
+.bolinha {
+    width: 1vw;
+    height: 1vh;
+    left: 221px;
+    top: 68px;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #848484;
+}
+

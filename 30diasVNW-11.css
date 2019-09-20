@@ -1,0 +1,38 @@
+body {
+	background-color: #0B3861;
+}
+
+.geral {
+	height: 100vh;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.title {
+	color: #01A9DB;
+}
+
+.sub-title {
+	color: #FFFFFF;
+}
+
+.image-title {
+	width: 45vw;
+	height: 60vh;
+}
+
+.form {
+	height: 95vh;
+	width: 45vw;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button {
+	width: 15vw;
+	background-color: red;
+	border-radius: 7px;
+	display: flex;
+	justify-content: center;
+}

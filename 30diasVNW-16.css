@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+}
+body {
+	background-color: black;
+}
+
+header {
+	height: 8vh;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+ul {
+	width: 18vw;
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #EEE8AA;
+    font-size: 1.5rem;
+}
+
+button {
+	width: 12vw;
+    height: 6vh;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    color: red;
+}
+
+.fotos-geral {
+    height: 50vh;
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.letter {
+	height: 20vh;
+	width: 7vw;
+	transform: rotate(330deg);
+}
+
+.letter-1{
+	height: 20vh;
+	width: 7vw;
+	transform: rotate(385deg);
+}
+
+.pesquisar {
+      width: 100%;
+      height: 20vh;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: space-evenly;
+}
+
+.search {
+      width: 50vw;
+      height: 6vh;
+      border-radius: 0.9em;
+      border-style: none;
+}
+
+.click1 {
+      width: 16vw;
+      height: 6vh;
+      border-radius: 0.8em;
+      border-style: none;
+      background-color: #FFFFFF;
+}
+
+.click2 {
+      width: 16vw;
+      height: 6vh;
+      border-radius: 0.8em;
+      border-style: none;
+      background-color: #FFFFFF;
+}

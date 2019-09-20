@@ -1,0 +1,123 @@
+body {
+	background-color: #088A85;
+}
+
+.casa {
+	width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.teto {
+    /* width: 1px; */
+    /* height: 74vh; */
+    bottom: 421px;
+    left: 158px;
+    position: absolute;
+    border-left: 180px solid transparent;
+    border-right: 180px solid transparent;
+    border-bottom: 145px solid #610B21;
+}
+.corpo {
+    width: 20vw;
+    height: 60vh;
+    bottom: 20px;
+    left: 208px;
+    position: absolute;
+    background-color: #FFFFFF;
+}
+
+.bola-1 {
+	width: 100px;
+	height: 100px;
+	bottom: 283px;
+	left: 280px;
+	position: absolute;
+	border-radius: 50%;
+	background-color: #145267;
+}
+
+.bola-2 {
+	width: 100px;
+	height: 100px;
+	bottom: 145px;
+	left: 280px;
+	position: absolute;
+	border-radius: 50%;
+	background-color: #145267;
+}
+
+.quadrado {
+	width: 45vw;
+    height: 45vh;
+    bottom: 19px;
+    left: calc(20vw + 208px);
+    position: absolute;
+    border: 1px solid #428bca;
+    background: #FFFFFF;
+}
+
+.teto-2 {
+	width: 425px;
+    bottom: 321px;
+    left: 468px;
+    position: absolute;
+    border-right: 210px solid transparent;
+    border-left: 0px solid transparent;
+    border-bottom: 80px solid #610B21;
+}
+
+.porta {
+	width: 10vw;
+    height: 25vh;
+    bottom: 20px;
+    left: 680px;
+    position: absolute;
+    background-color: #61380B;
+
+}
+
+.macaneta {
+	width: 1.5vw;
+    height: 2vh;
+    bottom: 60px;
+    left: 680px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: #B45F04;
+}
+
+.janela-1 {
+    width: 11vw;
+    height: 15vh;
+    bottom: 175px;
+    left: 850px;
+    position: absolute;
+    background-color: #145267;
+}
+
+.janela-2 {
+	width: 11vw;
+    height: 15vh;
+    bottom: 175px;
+    left: 500px;
+    position: absolute;
+    background-color: #145267;
+
+}
+
+.lua {
+    width: 100px;
+    height: 100px;
+    bottom: 550px;
+    left: 980px;
+    position: absolute;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-box-shadow: 30px 10px 0 #D8D8D8;
+    -webkit-box-shadow: 30px 10px 0 #D8D8D8;
+    box-shadow: 30px 10px 0 #D8D8D8;
+}
